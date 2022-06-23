@@ -1,6 +1,6 @@
 # jsproject
 # Proffesional company's website
-#### The application allows new users to like and subscribe to their monthly newsletter
+#### The application allows new users to like and subscribe to company's monthly newsletter
 #### By **Hesbon Ochieng**
 ## Description
 The application is a company's website which allows new users to like their page and subscribe to the company's monthly newspaper by submitting their email
