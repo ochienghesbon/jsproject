@@ -1,3 +1,4 @@
+document.addEventListener("DOMContentLoaded", function() {
 const subscribe=document.getElementById("subscribe")
 const email=document.getElementById("emailing")
 subscribe.addEventListener('click',async(e)=>{
@@ -55,4 +56,5 @@ const like=document.getElementById('like-button')
           redirect: 'follow',
         });
         return response.json();
-      }
+      } 
+      });
