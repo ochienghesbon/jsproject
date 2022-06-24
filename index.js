@@ -12,7 +12,7 @@ subscribe.addEventListener('click',async(e)=>{
     // await works same way as .then
     comment
   })
-  // the code email.value="" makes the input field empty after email submission
+  // the code email.value="" makes the input field empty after email 
   email.value=""
   const data=await getData("http://localhost:3000/comments")
   console.log(data)
