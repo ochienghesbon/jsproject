@@ -80,7 +80,7 @@ like.style.backgroundColor=response.id%2==0?"green":"red"
       
 
       const Delete=document.getElementById("deleteemail")
-      Delete.addEventListener('click',()=>{
+      Delete.addEventListener('click',async()=>{
         const idinput=document.getElementById("emailid")
         deleteEmail("https://jsproject-server.herokuapp.com/comments"+idinput.value)
         alert('deleted')
