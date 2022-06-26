@@ -1,12 +1,17 @@
 {
   "comments": [
     {
+<<<<<<< HEAD
       "comment": "hodhiambo@gmail.com",
       "id": 2
     },
     {
       "comment": "hodhiambo@gmail.com",
       "id": 3
+=======
+      "comment": "murage@gmail.com",
+      "id": 1
+>>>>>>> 4698559fa8fcb5e511f7cf7f537a8a86165a8ae9
     }
   ],
   "likes": [
@@ -300,6 +305,24 @@
     },
     {
       "id": 97
+<<<<<<< HEAD
+=======
+    },
+    {
+      "id": 98
+    },
+    {
+      "id": 99
+    },
+    {
+      "id": 100
+    },
+    {
+      "id": 101
+    },
+    {
+      "id": 102
+>>>>>>> 4698559fa8fcb5e511f7cf7f537a8a86165a8ae9
     }
   ]
 }
