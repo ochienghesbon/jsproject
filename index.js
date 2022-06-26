@@ -84,6 +84,8 @@ like.style.backgroundColor=response.id%2==0?"green":"red"
         const idinput=document.getElementById("emailid")
         deleteEmail("https://jsproject-server.herokuapp.com/comments"+idinput.value)
         alert('deleted')
+        const data=await getData("https://jsproject-server.herokuapp.com/comments")
+        console.log(data)
 
       })
       
